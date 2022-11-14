@@ -1,10 +1,10 @@
 import "./styles.css";
-import Reducer from "./useReducer";
+import UseState from "./useState";
 
 export default function App() {
   return (
     <div className="App">
-      <Reducer />
+      <UseState />
     </div>
   );
 }
